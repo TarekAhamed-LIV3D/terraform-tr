@@ -1,2 +1,3 @@
 vpc_project/.terraform
 dynamic/.terraform
+workspace/.terraform
